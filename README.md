@@ -1,6 +1,7 @@
-[![wakatime](https://wakatime.com/badge/user/d959bdc1-f33b-4e33-a72b-713c9d66b86b.svg)](https://wakatime.com/@d959bdc1-f33b-4e33-a72b-713c9d66b86b) 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/d959bdc1-f33b-4e33-a72b-713c9d66b86b.svg)](https://wakatime.com/@d959bdc1-f33b-4e33-a72b-713c9d66b86b) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,5 +10,5 @@
 <a href="https://youtube.com/@lorenzoamorelli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-### Feeding my snake
+### Feeding the snake
 ![snake gif](https://github.com/mikeabbott10/mikeabbott10/blob/output/github-contribution-grid-snake.svg)
