@@ -6,3 +6,5 @@
 </p>
 
 ![snake gif](https://github.com/mikeabbott10/mikeabbott10/blob/output/github-contribution-grid-snake.svg)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikeabbott10)](https://github.com/anuraghazra/github-readme-stats)
