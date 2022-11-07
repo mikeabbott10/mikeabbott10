@@ -29,6 +29,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikeabbott10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/d959bdc1-f33b-4e33-a72b-713c9d66b86b.svg)](https://wakatime.com/@d959bdc1-f33b-4e33-a72b-713c9d66b86b) 
 
