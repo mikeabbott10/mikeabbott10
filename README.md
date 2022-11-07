@@ -5,4 +5,4 @@
 <a href="https://youtube.com/@lorenzoamorelli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/mikeabbott10/mikeabbott10/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mikeabbott10/mikeabbott10/blob/output/github-contribution-grid-snake.svg)
