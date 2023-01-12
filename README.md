@@ -30,7 +30,6 @@
 #### Waka till now:
 [![wakatime](https://wakatime.com/badge/user/d959bdc1-f33b-4e33-a72b-713c9d66b86b.svg)](https://wakatime.com/@d959bdc1-f33b-4e33-a72b-713c9d66b86b)
 
-##### Waka week:
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikeabbott10&theme=tokyonight)
 #### Feeding the snake
 ![snake gif](https://github.com/mikeabbott10/mikeabbott10/blob/output/github-contribution-grid-snake.svg)
