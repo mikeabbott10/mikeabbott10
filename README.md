@@ -25,9 +25,10 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mikeabbott10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) \
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=mikeabbott10&show_icons=true&locale=en&layout=compact&hide=html&langs_count=7&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+#### Waka till now:
 [![wakatime](https://wakatime.com/badge/user/d959bdc1-f33b-4e33-a72b-713c9d66b86b.svg)](https://wakatime.com/@d959bdc1-f33b-4e33-a72b-713c9d66b86b)
 
-#### Waka week:
+##### Waka week:
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikeabbott10&theme=tokyonight)
 #### Feeding the snake
 ![snake gif](https://github.com/mikeabbott10/mikeabbott10/blob/output/github-contribution-grid-snake.svg)
