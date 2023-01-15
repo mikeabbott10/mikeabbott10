@@ -9,9 +9,10 @@
 </p>
 
 ## What I do
+🔭 I’m currently working at [Datacom](https://github.com/DATACOMDEV)
 🔭 I’m currently working on a new [Remote Linking for MyBoy!](https://play.google.com/store/apps/details?id=com.donow.myboyremotelinking) update \
 🔭 I’m currently working on **my bachelor's thesis** \
-🌱 I’m currently learning **Next.js** \
+🌱 I’m currently learning **Code Igniter 4** \
 👨‍💻 Most of my projects are available at [https://amorelli-lorenzo.it](https://amorelli-lorenzo.it) \
 📫 How to reach me **info@amorelli-lorenzo.it** 
 
