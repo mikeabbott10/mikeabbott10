@@ -12,7 +12,7 @@
 🔭 I’m currently working at [Datacom](https://github.com/DATACOMDEV) \
 🔭 I’m currently working on a new [Remote Linking for MyBoy!](https://play.google.com/store/apps/details?id=com.donow.myboyremotelinking) update \
 🌱 I’m currently learning **Laravel** and **Magento** \
-🌱 The last 5 frameworks I have learned so far: CodeIgniter, scikit-learn,  \
+🌱 The last 3 frameworks/libraries I learned: CodeIgniter, scikit-learn, Pandas  \
 👨‍💻 Most of my projects are available at [https://amorelli-lorenzo.it](https://amorelli-lorenzo.it) \
 📫 How to reach me **info@amorelli-lorenzo.it** 
 
