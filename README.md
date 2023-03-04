@@ -58,14 +58,12 @@
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/> </a> 
   <a href="https://opengl.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg" alt="opengl" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-  
-  
-  
-
 </p>
 
+<!--
 ![metrics](github-metrics.svg)
 ![calendar](/metrics.plugin.isocalendar.fullyear.svg)
+-->
 
 <!--
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mikeabbott10&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) \
