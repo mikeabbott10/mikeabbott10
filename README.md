@@ -9,7 +9,7 @@
 </p>
 
 ## What I do
-🔭 I’m currently working at [Datacom](https://github.com/DATACOMDEV) \
+🔭 I’m currently working at [Redev Technology](https://redev.technology/) \
 🔭 I’m currently working on a new [Remote Linking for MyBoy!](https://play.google.com/store/apps/details?id=com.donow.myboyremotelinking) update \
 🌱 I’m currently learning **Flutter** and **React** \
 🌱 The last 3 frameworks/libraries I learned: Laravel, CodeIgniter, Magento  \
