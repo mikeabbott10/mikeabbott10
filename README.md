@@ -9,7 +9,7 @@
 </p>
 
 ## What I do
-🔭 I’m currently working at [Redev Technology](https://redev.technology/) \
+🔭 I’m currently working at [Realplan S.r.l.](https://www.linkedin.com/company/realplan-fm) \
 🔭 I’m currently working on a new [Remote Linking for MyBoy!](https://play.google.com/store/apps/details?id=com.donow.myboyremotelinking) update \
 🌱 Frameworks/libraries I like the most: Flutter, Laravel  \
 👨‍💻 Most of my projects are available at [https://amorelli-lorenzo.it](https://amorelli-lorenzo.it) \
